@@ -1,3 +1,5 @@
 *.csv
 *.pyc
 *.log
+/sports_reference/
+/livesport/
