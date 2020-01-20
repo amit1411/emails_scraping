@@ -61,6 +61,7 @@ class SundanceFilmsSpider(scrapy.Spider):
                 items["email"] = data_list[2].strip()
         items["directors"] = directors
         items["producers"] = producers
+        print("Completed")
         yield items
 
 
