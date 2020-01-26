@@ -1,0 +1,93 @@
+1579953141579	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\amag\\AppData\\Local\\Temp\\rust_mozprofileITdWoX"
+1579953144793	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1579953144794	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1579953144794	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1579953144795	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1579953149346	Marionette	INFO	Listening on port 63062
+1579953149836	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Parent 21308, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1575282935/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Parent 21308, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1575282935/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 23028, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1575282935/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child[Parent 21308, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1575282935/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 19384, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1575282935/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Chil1579953159882	Marionette	INFO	Stopped listening on port 63062
+[GPU
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1579953427275	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\amag\\AppData\\Local\\Temp\\rust_mozprofilehA2sL6"
+1579953428569	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1579953428569	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1579953428570	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1579953428570	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1579953432944	Marionette	INFO	Listening on port 63525
+1579953433322	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://www.csae.com/desktopmodules/DNNArticle/javascript/jqx-all.js?cdv=220, line 7: unreachable code after return statement
+JavaScript warning: http://www.csae.com/desktopmodules/DNNArticle/javascript/jqx-all.js?cdv=220, line 7: unreachable code after return statement
+JavaScript warning: http://www.csae.com/desktopmodules/DNNArticle/javascript/jqx-all.js?cdv=220, line 7: unreachable code after return statement
+JavaScript warning: http://www.csae.com/desktopmodules/DNNArticle/javascript/jqx-all.js?cdv=220, line 7: unreachable code after return statement
+JavaScript warning: http://www.csae.com/desktopmodules/DNNArticle/javascript/jqx-all.js?cdv=220, line 7: unreachable code after return statement
+JavaScript warning: http://www.csae.com/desktopmodules/DNNArticle/javascript/jqx-all.js?cdv=220, line 7: unreachable code after return statement
+JavaScript warning: http://www.csae.com/desktopmodules/DNNArticle/javascript/jqx-all.js?cdv=220, line 7: unreachable code after return statement
+[Parent 3184, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1575282935/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Parent 3184, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1575282935/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[Child 7544, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1575282935/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 7[Parent 3184, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1575282935/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 27804, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1575282935/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 21579953728676	Marionette	INFO	Stopped listening on port 63525
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+r this session
+JavaScript warning: http://www.csae.com/desktopmodules/DNNArticle/javascript/jqx-all.js?cdv=220, line 7: unreachable code after return statement
+JavaScript warning: http://www.csae.com/desktopmodules/DNNArticle/javascript/jqx-all.js?cdv=220, line 7: unreachable code after return statement
+JavaScript warning: http://www.csae.com/desktopmodules/DNNArticle/javascript/jqx-all.js?cdv=220, line 7: unreachable code after return statement
+JavaScript warning: http://www.csae.com/desktopmodules/DNNArticle/javascript/jqx-all.js?cdv=220, line 7: unreachable code after return statement
+JavaScript warning: http://www.csae.com/desktopmodules/DNNArticle/javascript/jqx-all.js?cdv=220, line 7: unreachable code after return statement
+JavaScript warning: http://www.csae.com/desktopmodules/DNNArticle/javascript/jqx-all.js?cdv=220, line 7: unreachable code after return statement
+JavaScript warning: http://www.csae.com/desktopmodules/DNNArticle/javascript/jqx-all.js?cdv=220, line 7: unreachable code after return statement
+[Child 13932, Chrome_ChildThread] WARNING: pipe error: 109: f[Child 23792, Chrome_ChildThrile z:/task_1575282935/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, linee a3d41
+] [CWARNING: pipe error: 109: file z:/task_1575282935/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 2379[Child 3160, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1575282935/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Chil1579953735061	Marionette	INFO	Stopped listening on port 64056
+[G
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1579953881357	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\amag\\AppData\\Local\\Temp\\rust_mozprofileLtcRYo"
+1579953882656	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1579953882656	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1579953882656	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1579953882657	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1579953887858	Marionette	INFO	Listening on port 64493
+1579953887902	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://www.csae.com/desktopmodules/DNNArticle/javascript/jqx-all.js?cdv=220, line 7: unreachable code after return statement
+JavaScript warning: http://www.csae.com/desktopmodules/DNNArticle/javascript/jqx-all.js?cdv=220, line 7: unreachable code after return statement
+JavaScript warning: http://www.csae.com/desktopmodules/DNNArticle/javascript/jqx-all.js?cdv=220, line 7: unreachable code after return statement
+JavaScript warning: http://www.csae.com/desktopmodules/DNNArticle/javascript/jqx-all.js?cdv=220, line 7: unreachable code after return statement
+JavaScript warning: http://www.csae.com/desktopmodules/DNNArticle/javascript/jqx-all.js?cdv=220, line 7: unreachable code after return statement
+JavaScript warning: http://www.csae.com/desktopmodules/DNNArticle/javascript/jqx-all.js?cdv=220, line 7: unreachable code after return statement
+JavaScript warning: http://www.csae.com/desktopmodules/DNNArticle/javascript/jqx-all.js?cdv=220, line 7: unreachable code after return statement
+[Parent 26060, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1575282935/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Parent 26060, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1575282935/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 28236, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_15752[82935/builChd/srild 27988, c/ipc/chromium/src/chrom
+###!!! [Child][MessageChannel] Error: (msgtype=0x58000D,name=PHttpChannel::Msg_DeletingChannel) Channel closing: too late to send/recv, messages will be lost
+
+eChrome_ChildT/common/hipc_channel_win.cc, line 341
+read] WA[CRNING: pipe error: 109: file z:/task_1575282935/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 27988, Chrome_ChildThr[Parent 26060, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1575282935/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 1620, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1575282935/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 161579953921750	Marionette	INFO	Stopped listening on port 64493
+[GPU 9532,
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
