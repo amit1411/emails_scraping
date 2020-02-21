@@ -1,0 +1,59 @@
+city = response.css('.col-sm-4 a::attr(href)').extract()
+
+categs = response.css('#main .row+ div a::attr(href)').extract()
+
+sub_cate = response.css('.col-sm-4 a::attr(href)').extract()
+
+links = response.css('.h4 a::attr(href)').extract()
+
+name = response.css('#address span[itemprop=name]::text').extract()
+
+street = response.css('#primary-address span[itemprop=streetAddress]::text').extract_first()
+
+post = response.css('#primary-address span[itemprop=postalCode]::text').extract_first() or extract
+
+local = response.css('#primary-address span[itemprop=addressLocality]::text').extract_first()
+
+region = response.css('#primary-address span[itemprop=addressRegion]::text').extract_first()
+
+ph_fax = response.css('.contact-data .hidden-xs::text').extract()
+
+web = response.css('.contact-data-url a::attr(title)').extract()
+
+
+
+data = response.css('.card-left-padding .h5')
+
+conditional if "Service" in data[0].xpath('text()').extract_first()
+data[0].xpath('following::text()').extract_first()
+
+
+
+categors = response.css('.company-page-breadcrumb')
+
+allcategors = categors[1].css('span::text').extract()
+
+
+open =  response.css('table')
+
+rows = open[0].css('tr')
+
+loop till 6 as there is duplicate table
+
+tab[0].css('td span::text').extract()
+
+biz info
+
+biz_info = response.css('.biz-info dt')
+
+loop over biz_info
+
+check for specific entries
+
+social media
+
+#social-media
+
+#main .col-sm-6 .h4
+
+
